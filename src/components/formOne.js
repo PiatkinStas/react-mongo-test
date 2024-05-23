@@ -16,7 +16,7 @@ const FormComponent = () => {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label htmlFor="formOne">Сообщения формы №1:</label>
+        <label htmlFor="formOne">Сообщения формы №2:</label>
         <input
           type="text"
           id="formOne"
